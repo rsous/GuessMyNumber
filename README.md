@@ -104,7 +104,7 @@ See the [open issues](https://github.com/rsous/GuessMyNumber/issues) for a list 
 
 ## Contact
 
-Rodolfo - [@rsous3](https://twitter.com/rsous3) - rsous@pm.me
+Rodolfo - [@rsovs](https://twitter.com/rsovs) - rsous@pm.me
 
 Project Link: [https://github.com/rsous/GuessMyNumber](https://github.com/rsous/GuessMyNumber)
 
